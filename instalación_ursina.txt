@@ -1,0 +1,2 @@
+luego de instalar Phyton, escribe en el cmd (terminal):
+pip install ursina
